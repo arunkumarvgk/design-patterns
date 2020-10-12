@@ -1,4 +1,4 @@
-package com.designpatterns.creational;
+package com.designpatterns.creational.factory;
 
 public class FactoryMethodDemo {
 
