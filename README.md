@@ -1,1 +1,1 @@
-"# design-patterns" 
+Design Patterns with Java code snippets
