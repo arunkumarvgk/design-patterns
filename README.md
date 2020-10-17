@@ -1,1 +1,1 @@
-Solid Design principles and Design Patterns with Java code snippets
+Solid Design principles and Design Patterns with Java code snippet.
